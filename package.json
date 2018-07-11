@@ -1,0 +1,29 @@
+{
+  "name": "@unitsix/number-formatter",
+  "version": "0.1.2",
+  "engines": {
+    "node": ">=4.1.1"
+  },
+  "description": "Formats number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unitsix/npm-number-formatter"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "Ryan Stockdale, forked from Joanne Daudier https://github.com/jdaudier/numberFormatter",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "~3.0.0",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.17",
+    "mocha": "~2.2.5"
+  }
+}
