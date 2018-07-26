@@ -46,4 +46,4 @@ git push && git push --tags (or git push origin master --tags)
 npm publish
 ```
 
- 
+ https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
