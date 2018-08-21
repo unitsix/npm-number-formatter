@@ -22,12 +22,23 @@ A small library that adds commas to numbers
 
   Output should be `35,666`
 
-
 ## Tests
 
   `npm test`
+  or
+  `make test`
 
-## Deploy
+## Deploy/Publish
+
+### With Make
+
+  `make publish-patch` 
+  or
+  `make publish-minor`
+  or
+  `make publish-major`
+
+### Without Make
 
 ```
 npm version patch -m "Version %s - add sweet badges"
