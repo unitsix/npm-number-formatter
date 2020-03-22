@@ -1,6 +1,6 @@
 
 
-[![Coverage Status](https://coveralls.io/repos/github/unitsix/npm-number-formatter/badge.svg?branch=master)](https://coveralls.io/github/unitsix/npm-number-formatter?branch=master) [![Build Status](https://travis-ci.org/unitsix/npm-number-formatter.svg?branch=master)](https://travis-ci.org/unitsix/npm-number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/unitsix/npm-number-formatter/badge.svg?branch=master)](https://coveralls.io/github/unitsix/npm-number-formatter?branch=master) [![Build Status](https://travis-ci.com/unitsix/npm-number-formatter.svg?branch=master)](https://travis-ci.com/unitsix/npm-number-formatter)
 
 Number Formatter
 =========
