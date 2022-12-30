@@ -28,7 +28,7 @@
     "chai": "~3.0.0",
     "coveralls": "^3.0.9",
     "istanbul": "^0.4.5",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "semver": "^5.5.1",
     "standard-version": "^8.0.1"
   }
